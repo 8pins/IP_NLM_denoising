@@ -185,4 +185,3 @@ C 64 C-line1-cr.png
 C 64 C-line2-cr.png
 C 64 C-line3-cr.png
 C 64 C-line4-cr.png
-Untitled.ipynb
